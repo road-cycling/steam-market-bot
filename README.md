@@ -4,4 +4,4 @@
 
  Contact me to discuss if serious.
 
- Stack: Golang, Ocaml, NodeJS.
+ Stack: Golang, Ocaml (Jane Street core), NodeJS.
